@@ -1,6 +1,6 @@
 # Project demo
 
-project demo : https://frabjous-treacle-7fb027.netlify.app/
+project : https://frabjous-treacle-7fb027.netlify.app/
 
 ## Getting Started with Create React App and Redux
 
